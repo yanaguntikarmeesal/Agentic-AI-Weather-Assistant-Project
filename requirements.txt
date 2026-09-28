@@ -1,0 +1,10 @@
+
+streamlit
+langchain
+langchain-groq
+langgraph
+requests
+
+# python -m pip install -r requirements.txt
+
+# python -m streamlit run app.py
